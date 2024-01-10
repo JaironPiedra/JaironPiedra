@@ -5,7 +5,8 @@
 - <b>Penetration Test & Report<b>
   - [Penetration Report in GNS3](https://www.canva.com/design/DAF2rzztlQk/j4oVHCP47iacSqWoBZF2Wg/edit)
 - <b>Reverse Shell Walkthrough
-  
+  - [Capturing and Hardening a Reverse Shell](https://github.com/JaironPiedra/Reverse-Shell/blob/main/README.md)
+    
 
 
 
