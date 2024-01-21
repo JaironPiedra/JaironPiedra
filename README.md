@@ -8,6 +8,8 @@
   - [Capturing and Hardening a Reverse Shell](https://github.com/JaironPiedra/Reverse-Shell/blob/main/README.md)
 
 - <b>SQL Injections Breakdowns<b>
+  - [SQL Injection Walkthrough](https://github.com/JaironPiedra/SQL-Injections/blob/main/README.md)
+
  
 
 
