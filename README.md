@@ -7,7 +7,8 @@
 - <b>Reverse Shell Walkthrough
   - [Capturing and Hardening a Reverse Shell](https://github.com/JaironPiedra/Reverse-Shell/blob/main/README.md)
 
-- <b>Purple Team Homelab(in the works) :)<b>
+- <b>SQL Injections Breakdowns<b>
+ 
 
 
 
